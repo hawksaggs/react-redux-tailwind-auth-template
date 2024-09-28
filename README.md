@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# React Redux Tailwind Auth Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub License](https://img.shields.io/github/license/hawksaggs/react-redux-tailwind-auth-template)
+![GitHub stars](https://img.shields.io/github/stars/hawksaggs/react-redux-tailwind-auth-template?style=social)
+![GitHub forks](https://img.shields.io/github/forks/hawksaggs/react-redux-tailwind-auth-template?style=social)
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Introduction](#introduction)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
 
-### `npm start`
+## Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Welcome to the **React Redux Tailwind Auth Template**! This project serves as a comprehensive starter template for building React applications with robust state management, elegant styling, and seamless user authentication. Leveraging modern tools and best practices, this template is designed to accelerate your development process and ensure scalability.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- **User Authentication**: Secure login and signup functionalities with protected routes.
+- **State Management**: Efficient state handling using Redux Toolkit.
+- **Form Handling**: Simplified form management with React Hook Form and Yup for schema-based validation.
+- **Styling**: Responsive and modern UI designs powered by Tailwind CSS.
+- **Notifications**: Instant feedback through toast notifications using React Toastify.
+- **Responsive Design**: Mobile-first design ensuring optimal user experience across devices.
+- **Animations**: Smooth transitions and interactive elements enhancing user engagement.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech Stack
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **React.js**: Frontend library for building user interfaces.
+- **Redux Toolkit**: Simplified state management for React applications.
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
+- **React Hook Form**: Performant, flexible, and extensible form library for React.
+- **Yup**: JavaScript schema builder for value parsing and validation.
+- **React Toastify**: Notification library for React applications.
+- **React Router DOM**: Declarative routing for React.
